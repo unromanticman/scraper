@@ -1,2 +1,2 @@
 # scraper
-scraper
+![Alt text](/screenshot.png)
